@@ -1,0 +1,330 @@
+nohup: ignoring input
+application/gzip
+application/gzip
+Started analysis of ARAFmu_Ctl_1_1.fq.gz
+Approx 5% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 10% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 15% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 20% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 25% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 30% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 35% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 40% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 45% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 50% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 55% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 60% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 65% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 70% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 75% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 80% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 85% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 90% complete for ARAFmu_Ctl_1_1.fq.gz
+Approx 95% complete for ARAFmu_Ctl_1_1.fq.gz
+Analysis complete for ARAFmu_Ctl_1_1.fq.gz
+Started analysis of ARAFmu_Ctl_1_2.fq.gz
+Approx 5% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 10% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 15% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 20% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 25% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 30% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 35% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 40% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 45% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 50% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 55% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 60% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 65% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 70% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 75% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 80% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 85% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 90% complete for ARAFmu_Ctl_1_2.fq.gz
+Approx 95% complete for ARAFmu_Ctl_1_2.fq.gz
+Analysis complete for ARAFmu_Ctl_1_2.fq.gz
+application/gzip
+application/gzip
+Started analysis of ARAFmu_Ctl_2_1.fq.gz
+Approx 5% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 10% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 15% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 20% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 25% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 30% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 35% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 40% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 45% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 50% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 55% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 60% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 65% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 70% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 75% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 80% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 85% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 90% complete for ARAFmu_Ctl_2_1.fq.gz
+Approx 95% complete for ARAFmu_Ctl_2_1.fq.gz
+Analysis complete for ARAFmu_Ctl_2_1.fq.gz
+Started analysis of ARAFmu_Ctl_2_2.fq.gz
+Approx 5% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 10% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 15% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 20% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 25% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 30% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 35% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 40% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 45% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 50% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 55% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 60% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 65% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 70% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 75% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 80% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 85% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 90% complete for ARAFmu_Ctl_2_2.fq.gz
+Approx 95% complete for ARAFmu_Ctl_2_2.fq.gz
+Analysis complete for ARAFmu_Ctl_2_2.fq.gz
+application/gzip
+application/gzip
+Started analysis of ARAFmu_sor_1_1.fq.gz
+Approx 5% complete for ARAFmu_sor_1_1.fq.gz
+Approx 10% complete for ARAFmu_sor_1_1.fq.gz
+Approx 15% complete for ARAFmu_sor_1_1.fq.gz
+Approx 20% complete for ARAFmu_sor_1_1.fq.gz
+Approx 25% complete for ARAFmu_sor_1_1.fq.gz
+Approx 30% complete for ARAFmu_sor_1_1.fq.gz
+Approx 35% complete for ARAFmu_sor_1_1.fq.gz
+Approx 40% complete for ARAFmu_sor_1_1.fq.gz
+Approx 45% complete for ARAFmu_sor_1_1.fq.gz
+Approx 50% complete for ARAFmu_sor_1_1.fq.gz
+Approx 55% complete for ARAFmu_sor_1_1.fq.gz
+Approx 60% complete for ARAFmu_sor_1_1.fq.gz
+Approx 65% complete for ARAFmu_sor_1_1.fq.gz
+Approx 70% complete for ARAFmu_sor_1_1.fq.gz
+Approx 75% complete for ARAFmu_sor_1_1.fq.gz
+Approx 80% complete for ARAFmu_sor_1_1.fq.gz
+Approx 85% complete for ARAFmu_sor_1_1.fq.gz
+Approx 90% complete for ARAFmu_sor_1_1.fq.gz
+Approx 95% complete for ARAFmu_sor_1_1.fq.gz
+Analysis complete for ARAFmu_sor_1_1.fq.gz
+Started analysis of ARAFmu_sor_1_2.fq.gz
+Approx 5% complete for ARAFmu_sor_1_2.fq.gz
+Approx 10% complete for ARAFmu_sor_1_2.fq.gz
+Approx 15% complete for ARAFmu_sor_1_2.fq.gz
+Approx 20% complete for ARAFmu_sor_1_2.fq.gz
+Approx 25% complete for ARAFmu_sor_1_2.fq.gz
+Approx 30% complete for ARAFmu_sor_1_2.fq.gz
+Approx 35% complete for ARAFmu_sor_1_2.fq.gz
+Approx 40% complete for ARAFmu_sor_1_2.fq.gz
+Approx 45% complete for ARAFmu_sor_1_2.fq.gz
+Approx 50% complete for ARAFmu_sor_1_2.fq.gz
+Approx 55% complete for ARAFmu_sor_1_2.fq.gz
+Approx 60% complete for ARAFmu_sor_1_2.fq.gz
+Approx 65% complete for ARAFmu_sor_1_2.fq.gz
+Approx 70% complete for ARAFmu_sor_1_2.fq.gz
+Approx 75% complete for ARAFmu_sor_1_2.fq.gz
+Approx 80% complete for ARAFmu_sor_1_2.fq.gz
+Approx 85% complete for ARAFmu_sor_1_2.fq.gz
+Approx 90% complete for ARAFmu_sor_1_2.fq.gz
+Approx 95% complete for ARAFmu_sor_1_2.fq.gz
+Analysis complete for ARAFmu_sor_1_2.fq.gz
+Skipping 'ARAF/ARAF/ARAFmu_sor_2/ARAF/ARAFmu_sor_2_1.fq.gz' which didn't exist, or couldn't be read
+Skipping 'ARAF/ARAF/ARAFmu_sor_2/ARAF/ARAFmu_sor_2_2.fq.gz' which didn't exist, or couldn't be read
+application/gzip
+application/gzip
+Started analysis of ARAFwt_Ctl_1_1.fq.gz
+Approx 5% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 10% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 15% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 20% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 25% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 30% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 35% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 40% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 45% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 50% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 55% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 60% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 65% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 70% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 75% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 80% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 85% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 90% complete for ARAFwt_Ctl_1_1.fq.gz
+Approx 95% complete for ARAFwt_Ctl_1_1.fq.gz
+Analysis complete for ARAFwt_Ctl_1_1.fq.gz
+Started analysis of ARAFwt_Ctl_1_2.fq.gz
+Approx 5% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 10% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 15% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 20% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 25% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 30% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 35% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 40% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 45% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 50% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 55% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 60% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 65% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 70% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 75% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 80% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 85% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 90% complete for ARAFwt_Ctl_1_2.fq.gz
+Approx 95% complete for ARAFwt_Ctl_1_2.fq.gz
+Analysis complete for ARAFwt_Ctl_1_2.fq.gz
+application/gzip
+application/gzip
+Started analysis of ARAFwt_Ctl_2_1.fq.gz
+Approx 5% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 10% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 15% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 20% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 25% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 30% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 35% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 40% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 45% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 50% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 55% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 60% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 65% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 70% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 75% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 80% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 85% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 90% complete for ARAFwt_Ctl_2_1.fq.gz
+Approx 95% complete for ARAFwt_Ctl_2_1.fq.gz
+Analysis complete for ARAFwt_Ctl_2_1.fq.gz
+Started analysis of ARAFwt_Ctl_2_2.fq.gz
+Approx 5% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 10% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 15% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 20% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 25% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 30% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 35% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 40% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 45% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 50% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 55% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 60% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 65% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 70% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 75% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 80% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 85% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 90% complete for ARAFwt_Ctl_2_2.fq.gz
+Approx 95% complete for ARAFwt_Ctl_2_2.fq.gz
+Analysis complete for ARAFwt_Ctl_2_2.fq.gz
+application/gzip
+application/gzip
+Started analysis of ARAFwt_sor_1_1.fq.gz
+Approx 5% complete for ARAFwt_sor_1_1.fq.gz
+Approx 10% complete for ARAFwt_sor_1_1.fq.gz
+Approx 15% complete for ARAFwt_sor_1_1.fq.gz
+Approx 20% complete for ARAFwt_sor_1_1.fq.gz
+Approx 25% complete for ARAFwt_sor_1_1.fq.gz
+Approx 30% complete for ARAFwt_sor_1_1.fq.gz
+Approx 35% complete for ARAFwt_sor_1_1.fq.gz
+Approx 40% complete for ARAFwt_sor_1_1.fq.gz
+Approx 45% complete for ARAFwt_sor_1_1.fq.gz
+Approx 50% complete for ARAFwt_sor_1_1.fq.gz
+Approx 55% complete for ARAFwt_sor_1_1.fq.gz
+Approx 60% complete for ARAFwt_sor_1_1.fq.gz
+Approx 65% complete for ARAFwt_sor_1_1.fq.gz
+Approx 70% complete for ARAFwt_sor_1_1.fq.gz
+Approx 75% complete for ARAFwt_sor_1_1.fq.gz
+Approx 80% complete for ARAFwt_sor_1_1.fq.gz
+Approx 85% complete for ARAFwt_sor_1_1.fq.gz
+Approx 90% complete for ARAFwt_sor_1_1.fq.gz
+Approx 95% complete for ARAFwt_sor_1_1.fq.gz
+Analysis complete for ARAFwt_sor_1_1.fq.gz
+Started analysis of ARAFwt_sor_1_2.fq.gz
+Approx 5% complete for ARAFwt_sor_1_2.fq.gz
+Approx 10% complete for ARAFwt_sor_1_2.fq.gz
+Approx 15% complete for ARAFwt_sor_1_2.fq.gz
+Approx 20% complete for ARAFwt_sor_1_2.fq.gz
+Approx 25% complete for ARAFwt_sor_1_2.fq.gz
+Approx 30% complete for ARAFwt_sor_1_2.fq.gz
+Approx 35% complete for ARAFwt_sor_1_2.fq.gz
+Approx 40% complete for ARAFwt_sor_1_2.fq.gz
+Approx 45% complete for ARAFwt_sor_1_2.fq.gz
+Approx 50% complete for ARAFwt_sor_1_2.fq.gz
+Approx 55% complete for ARAFwt_sor_1_2.fq.gz
+Approx 60% complete for ARAFwt_sor_1_2.fq.gz
+Approx 65% complete for ARAFwt_sor_1_2.fq.gz
+Approx 70% complete for ARAFwt_sor_1_2.fq.gz
+Approx 75% complete for ARAFwt_sor_1_2.fq.gz
+Approx 80% complete for ARAFwt_sor_1_2.fq.gz
+Approx 85% complete for ARAFwt_sor_1_2.fq.gz
+Approx 90% complete for ARAFwt_sor_1_2.fq.gz
+Approx 95% complete for ARAFwt_sor_1_2.fq.gz
+Analysis complete for ARAFwt_sor_1_2.fq.gz
+application/gzip
+application/gzip
+Started analysis of ARAFwt_sor_2_1.fq.gz
+Approx 5% complete for ARAFwt_sor_2_1.fq.gz
+Approx 10% complete for ARAFwt_sor_2_1.fq.gz
+Approx 15% complete for ARAFwt_sor_2_1.fq.gz
+Approx 20% complete for ARAFwt_sor_2_1.fq.gz
+Approx 25% complete for ARAFwt_sor_2_1.fq.gz
+Approx 30% complete for ARAFwt_sor_2_1.fq.gz
+Approx 35% complete for ARAFwt_sor_2_1.fq.gz
+Approx 40% complete for ARAFwt_sor_2_1.fq.gz
+Approx 45% complete for ARAFwt_sor_2_1.fq.gz
+Approx 50% complete for ARAFwt_sor_2_1.fq.gz
+Approx 55% complete for ARAFwt_sor_2_1.fq.gz
+Approx 60% complete for ARAFwt_sor_2_1.fq.gz
+Approx 65% complete for ARAFwt_sor_2_1.fq.gz
+Approx 70% complete for ARAFwt_sor_2_1.fq.gz
+Approx 75% complete for ARAFwt_sor_2_1.fq.gz
+Approx 80% complete for ARAFwt_sor_2_1.fq.gz
+Approx 85% complete for ARAFwt_sor_2_1.fq.gz
+Approx 90% complete for ARAFwt_sor_2_1.fq.gz
+Approx 95% complete for ARAFwt_sor_2_1.fq.gz
+Analysis complete for ARAFwt_sor_2_1.fq.gz
+Started analysis of ARAFwt_sor_2_2.fq.gz
+Approx 5% complete for ARAFwt_sor_2_2.fq.gz
+Approx 10% complete for ARAFwt_sor_2_2.fq.gz
+Approx 15% complete for ARAFwt_sor_2_2.fq.gz
+Approx 20% complete for ARAFwt_sor_2_2.fq.gz
+Approx 25% complete for ARAFwt_sor_2_2.fq.gz
+Approx 30% complete for ARAFwt_sor_2_2.fq.gz
+Approx 35% complete for ARAFwt_sor_2_2.fq.gz
+Approx 40% complete for ARAFwt_sor_2_2.fq.gz
+Approx 45% complete for ARAFwt_sor_2_2.fq.gz
+Approx 50% complete for ARAFwt_sor_2_2.fq.gz
+Approx 55% complete for ARAFwt_sor_2_2.fq.gz
+Approx 60% complete for ARAFwt_sor_2_2.fq.gz
+Approx 65% complete for ARAFwt_sor_2_2.fq.gz
+Approx 70% complete for ARAFwt_sor_2_2.fq.gz
+Approx 75% complete for ARAFwt_sor_2_2.fq.gz
+Approx 80% complete for ARAFwt_sor_2_2.fq.gz
+Approx 85% complete for ARAFwt_sor_2_2.fq.gz
+Approx 90% complete for ARAFwt_sor_2_2.fq.gz
+Approx 95% complete for ARAFwt_sor_2_2.fq.gz
+Analysis complete for ARAFwt_sor_2_2.fq.gz
+
+/// MultiQC 🔍 v1.28
+
+       file_search | Search path: /hdd1/home/f24_wyli/6010/results/fastqc
+
+            fastqc | Found 14 reports
+            violin | Tried to make table/violin plot, but had no data. pconfig: {'namespace': 'FastQC', 'id': 'fastqc_top_overrepresented_sequences_table', 'title': 'FastQC: Top overrepresented sequences', 'col1_header': 'Overrepresented sequence', 'sort_rows': False}
+
+     write_results | Data        : multiqc_data
+     write_results | Report      : multiqc_report.html
+           multiqc | MultiQC complete
+qc.sh: line 18: trimmomatic: command not found
+qc.sh: line 18: trimmomatic: command not found
+qc.sh: line 18: trimmomatic: command not found
+qc.sh: line 18: trimmomatic: command not found
+qc.sh: line 18: trimmomatic: command not found
+qc.sh: line 18: trimmomatic: command not found
+qc.sh: line 18: trimmomatic: command not found
+qc.sh: line 18: trimmomatic: command not found

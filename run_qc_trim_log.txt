@@ -1,0 +1,129 @@
+nohup: ignoring input
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFmu_Ctl_1/ARAFmu_Ctl_1_1.fq.gz ARAF/ARAFmu_Ctl_1/ARAFmu_Ctl_1_2.fq.gz results/trimmed/ARAFmu_Ctl_1_1_paired.fq.gz results/trimmed/ARAFmu_Ctl_1_1_unpaired.fq.gz results/trimmed/ARAFmu_Ctl_1_2_paired.fq.gz results/trimmed/ARAFmu_Ctl_1_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 24577932 Both Surviving: 24339531 (99.03%) Forward Only Surviving: 129347 (0.53%) Reverse Only Surviving: 90083 (0.37%) Dropped: 18971 (0.08%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFmu_Ctl_2/ARAFmu_Ctl_2_1.fq.gz ARAF/ARAFmu_Ctl_2/ARAFmu_Ctl_2_2.fq.gz results/trimmed/ARAFmu_Ctl_2_1_paired.fq.gz results/trimmed/ARAFmu_Ctl_2_1_unpaired.fq.gz results/trimmed/ARAFmu_Ctl_2_2_paired.fq.gz results/trimmed/ARAFmu_Ctl_2_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 28869791 Both Surviving: 28605763 (99.09%) Forward Only Surviving: 135631 (0.47%) Reverse Only Surviving: 107905 (0.37%) Dropped: 20492 (0.07%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFmu_sor_1/ARAFmu_sor_1_1.fq.gz ARAF/ARAFmu_sor_1/ARAFmu_sor_1_2.fq.gz results/trimmed/ARAFmu_sor_1_1_paired.fq.gz results/trimmed/ARAFmu_sor_1_1_unpaired.fq.gz results/trimmed/ARAFmu_sor_1_2_paired.fq.gz results/trimmed/ARAFmu_sor_1_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 22939856 Both Surviving: 22712449 (99.01%) Forward Only Surviving: 126878 (0.55%) Reverse Only Surviving: 83223 (0.36%) Dropped: 17306 (0.08%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFmu_sor_2/ARAFmu_sor_2_1.fq.gz ARAF/ARAFmu_sor_2/ARAFmu_sor_2_2.fq.gz results/trimmed/ARAFmu_sor_2_1_paired.fq.gz results/trimmed/ARAFmu_sor_2_1_unpaired.fq.gz results/trimmed/ARAFmu_sor_2_2_paired.fq.gz results/trimmed/ARAFmu_sor_2_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 28674702 Both Surviving: 28397768 (99.03%) Forward Only Surviving: 149889 (0.52%) Reverse Only Surviving: 104684 (0.37%) Dropped: 22361 (0.08%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFwt_Ctl_1/ARAFwt_Ctl_1_1.fq.gz ARAF/ARAFwt_Ctl_1/ARAFwt_Ctl_1_2.fq.gz results/trimmed/ARAFwt_Ctl_1_1_paired.fq.gz results/trimmed/ARAFwt_Ctl_1_1_unpaired.fq.gz results/trimmed/ARAFwt_Ctl_1_2_paired.fq.gz results/trimmed/ARAFwt_Ctl_1_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 24958220 Both Surviving: 24731059 (99.09%) Forward Only Surviving: 118006 (0.47%) Reverse Only Surviving: 91549 (0.37%) Dropped: 17606 (0.07%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFwt_Ctl_2/ARAFwt_Ctl_2_1.fq.gz ARAF/ARAFwt_Ctl_2/ARAFwt_Ctl_2_2.fq.gz results/trimmed/ARAFwt_Ctl_2_1_paired.fq.gz results/trimmed/ARAFwt_Ctl_2_1_unpaired.fq.gz results/trimmed/ARAFwt_Ctl_2_2_paired.fq.gz results/trimmed/ARAFwt_Ctl_2_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 29672834 Both Surviving: 29393494 (99.06%) Forward Only Surviving: 147419 (0.50%) Reverse Only Surviving: 109595 (0.37%) Dropped: 22326 (0.08%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFwt_sor_1/ARAFwt_sor_1_1.fq.gz ARAF/ARAFwt_sor_1/ARAFwt_sor_1_2.fq.gz results/trimmed/ARAFwt_sor_1_1_paired.fq.gz results/trimmed/ARAFwt_sor_1_1_unpaired.fq.gz results/trimmed/ARAFwt_sor_1_2_paired.fq.gz results/trimmed/ARAFwt_sor_1_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 23096852 Both Surviving: 22875724 (99.04%) Forward Only Surviving: 121091 (0.52%) Reverse Only Surviving: 83729 (0.36%) Dropped: 16308 (0.07%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ -threads 8 ARAF/ARAFwt_sor_2/ARAFwt_sor_2_1.fq.gz ARAF/ARAFwt_sor_2/ARAFwt_sor_2_2.fq.gz results/trimmed/ARAFwt_sor_2_1_paired.fq.gz results/trimmed/ARAFwt_sor_2_1_unpaired.fq.gz results/trimmed/ARAFwt_sor_2_2_paired.fq.gz results/trimmed/ARAFwt_sor_2_2_unpaired.fq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+java.io.FileNotFoundException: /hdd1/home/f24_wyli/6010/adapters.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 26477108 Both Surviving: 26230724 (99.07%) Forward Only Surviving: 130847 (0.49%) Reverse Only Surviving: 97481 (0.37%) Dropped: 18056 (0.07%)
+TrimmomaticPE: Completed successfully

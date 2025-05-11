@@ -1,0 +1,115 @@
+nohup: ignoring input
+Found 8 BAM files for counting...
+Starting featureCounts...
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.8
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 8 BAM files                                      ||
+||                                                                            ||
+||                           ARAFmu_Ctl_1_sorted.bam                          ||
+||                           ARAFmu_Ctl_2_sorted.bam                          ||
+||                           ARAFmu_sor_1_sorted.bam                          ||
+||                           ARAFmu_sor_2_sorted.bam                          ||
+||                           ARAFwt_Ctl_1_sorted.bam                          ||
+||                           ARAFwt_Ctl_2_sorted.bam                          ||
+||                           ARAFwt_sor_1_sorted.bam                          ||
+||                           ARAFwt_sor_2_sorted.bam                          ||
+||                                                                            ||
+||             Output file : featureCounts_gene_counts.txt                    ||
+||                 Summary : featureCounts_gene_counts.txt.summary            ||
+||              Paired-end : yes                                              ||
+||        Count read pairs : no                                               ||
+||              Annotation : gencode.v47.annotation.gff3 (GTF)                ||
+||      Dir for temp files : results/counts_new                               ||
+||                                                                            ||
+||                 Threads : 8                                                ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file gencode.v47.annotation.gff3 ...                       ||
+||    Features : 2155005                                                      ||
+||    Meta-features : 78724                                                   ||
+||    Chromosomes/contigs : 25                                                ||
+||                                                                            ||
+|| Process BAM file ARAFmu_Ctl_1_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 53755043                                             ||
+||    Successfully assigned alignments : 36214524 (67.4%)                     ||
+||    Running time : 0.22 minutes                                             ||
+||                                                                            ||
+|| Process BAM file ARAFmu_Ctl_2_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 63267798                                             ||
+||    Successfully assigned alignments : 42457694 (67.1%)                     ||
+||    Running time : 0.53 minutes                                             ||
+||                                                                            ||
+|| Process BAM file ARAFmu_sor_1_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 50149945                                             ||
+||    Successfully assigned alignments : 33950971 (67.7%)                     ||
+||    Running time : 0.30 minutes                                             ||
+||                                                                            ||
+|| Process BAM file ARAFmu_sor_2_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 62917202                                             ||
+||    Successfully assigned alignments : 42374535 (67.3%)                     ||
+||    Running time : 0.23 minutes                                             ||
+||                                                                            ||
+|| Process BAM file ARAFwt_Ctl_1_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 54609634                                             ||
+||    Successfully assigned alignments : 36419752 (66.7%)                     ||
+||    Running time : 0.23 minutes                                             ||
+||                                                                            ||
+|| Process BAM file ARAFwt_Ctl_2_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 65026748                                             ||
+||    Successfully assigned alignments : 43220885 (66.5%)                     ||
+||    Running time : 0.29 minutes                                             ||
+||                                                                            ||
+|| Process BAM file ARAFwt_sor_1_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 50505751                                             ||
+||    Successfully assigned alignments : 34183471 (67.7%)                     ||
+||    Running time : 0.17 minutes                                             ||
+||                                                                            ||
+|| Process BAM file ARAFwt_sor_2_sorted.bam...                                ||
+||    Paired-end reads are included.                                          ||
+||    The reads are assigned on the single-end mode.                          ||
+||    Total alignments : 58074398                                             ||
+||    Successfully assigned alignments : 39073742 (67.3%)                     ||
+||    Running time : 0.12 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "results/counts_new/feat  ||
+|| ureCounts_gene_counts.txt.summary"                                         ||
+||                                                                            ||
+\\============================================================================//
+
+featureCounts completed successfully!
+Gene count matrix saved to: results/counts_new/featureCounts_gene_counts.txt
+Summary file also generated: results/counts_new/featureCounts_gene_counts.txt.summary
+Gene quantification step completed.
