@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This script downloads the reference genome and aligned the RNA-seq data to ref.
 mkdir -p reference/hisat2_index results/alignment
 
 
